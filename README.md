@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Python and C
+- 🌱 I’m currently learning ... JavaScript
 - 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ... JavaScript and App Development
 - 💬 Ask me about ... Anything!
