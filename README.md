@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on... a JavaScript Adventure game!
 - 🌱 I’m currently learning ... JavaScript
 - 👯 I’m looking to collaborate on ... Python
 - 🤔 I’m looking for help with ... JavaScript and App Development
