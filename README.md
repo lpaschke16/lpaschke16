@@ -2,12 +2,8 @@
 
 
 
-- 🔭 I’m currently working on... a JavaScript Adventure game!
-- 🌱 I’m currently learning ... JavaScript
-- 👯 I’m looking to collaborate on ... Python
-- 🤔 I’m looking for help with ... JavaScript and App Development
-- 💬 Ask me about ... Anything!
+- 🔭 I’m currently working on... Android Studio App
+- 🌱 I’m currently learning ... Java, Kotlin, HTML
+- 👯 I’m looking to collaborate on ... Java
 - 📫 How to reach me: ...[Linkedin](www.linkedin.com/in/lucas-paschke-64b2a1222)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am a high school Junior
 -->
